@@ -1,3 +1,2 @@
 # Aprendizaje Estadístico
-
-Repositorio
+ 
